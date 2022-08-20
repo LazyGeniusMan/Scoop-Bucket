@@ -1,0 +1,29 @@
+{
+    "version": "0.8.2",
+    "description": "Komga metadata fetcher",
+    "homepage": "https://github.com/Snd-R/komf",
+    "license": "MIT",
+    "suggest": {
+        "JDK": [
+            "java/oraclejdk",
+            "java/openjdk"
+        ]
+    },
+    "notes": "Default URL is http://localhost:8085",
+    "url": "https://github.com/Snd-R/komf/releases/download/0.8.2/komf-0.8.2.jar#/komf.jar",
+    "hash": "65ca7bd4179a238c8b4d4b9ad54cac897c74303365f9269f62c5af386e51c750",
+    "bin": [
+        [
+            "komf.jar",
+            "komf",
+            "\"$dir\\config\\application.yml\""
+        ]
+    ],
+    "persist": "config",
+    "checkver": {
+        "github": "https://github.com/Snd-R/komf"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Snd-R/komf/releases/download/$version/komf-$version.jar#/komf.jar"
+    }
+}
