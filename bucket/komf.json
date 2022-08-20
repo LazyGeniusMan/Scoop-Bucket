@@ -15,10 +15,12 @@
     "bin": [
         [
             "komf.jar",
-            "komf",
-            "\"$dir\\config\\application.yml\""
+            "komf"
         ]
     ],
+    "env_set": {
+        "KOMF_CONFIG_DIR": "$dir"
+    },
     "persist": "config",
     "checkver": {
         "github": "https://github.com/Snd-R/komf"
