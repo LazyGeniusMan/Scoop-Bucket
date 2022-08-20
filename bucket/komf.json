@@ -19,7 +19,7 @@
         ]
     ],
     "env_set": {
-        "KOMF_CONFIG_DIR": "$dir"
+        "KOMF_CONFIG_DIR": "$dir\\config"
     },
     "persist": "config",
     "checkver": {
