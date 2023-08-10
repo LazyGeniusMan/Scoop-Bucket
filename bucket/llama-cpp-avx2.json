@@ -1,11 +1,11 @@
 {
-    "version": "master-ea04a4c",
+    "version": "master-1638757",
     "description": "Port of Facebook's LLaMA model in C/C++",
     "homepage": "https://github.com/ggerganov/llama.cpp",
     "license": "MIT",
     "notes": "Default URL is http://localhost:8080",
-    "url": "https://github.com/ggerganov/llama.cpp/releases/download/master-ea04a4c/llama-master-ea04a4c-bin-win-avx2-x64.zip",
-    "hash": "4f5f6445121fe21366da1faefde7ba8478d218a6f4075043731700584ac797dc",
+    "url": "https://github.com/ggerganov/llama.cpp/releases/download/master-1638757/llama-master-1638757-bin-win-avx2-x64.zip",
+    "hash": "8d702a97ad10862a6b141fb704f9bc70923b96dddcc17291561064cfa789e150",
     "bin": [
         [
             "server.exe",
