@@ -1,11 +1,11 @@
 {
-    "version": "b2989",
+    "version": "b2993",
     "description": "Port of Facebook's LLaMA model in C/C++",
     "homepage": "https://github.com/ggerganov/llama.cpp",
     "license": "MIT",
     "notes": "Default URL is http://localhost:8080",
-    "url": "https://github.com/ggerganov/llama.cpp/releases/download/b2989/llama-b2989-bin-win-avx2-x64.zip",
-    "hash": "79f1167d08d72d40d6e09a5b1bafe6082fdfcfb69501844070c4ac23f2aa4e0b",
+    "url": "https://github.com/ggerganov/llama.cpp/releases/download/b2993/llama-b2993-bin-win-avx2-x64.zip",
+    "hash": "2bd4cbf9bb3efc2a2417e7005d4e4e4d2e419776925a0ea0940a9c2e0d466e72",
     "bin": [
         [
             "server.exe",
